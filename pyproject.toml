@@ -1,0 +1,7 @@
+[project]
+name = "wietgrinder"
+version = "0.1.0"
+description = "Symmetric cipher on feistel network"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
